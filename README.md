@@ -6,7 +6,6 @@ Pythonista，会写 Golang 和 C++，喜欢用图片的方式描绘计算机世�
 
 ![](images/innodb-page.png)
 
-![](images/map.png)
 
 ![](images/vruntime.png)
 
